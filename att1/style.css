@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+font-family: "Poppins", sans-serif;
+}
+
+#links {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    color: #FFA07A;
+}
+
+h2 {
+    padding: 20px 0px;
+}
+
+#imagem{
+    margin-top: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 50px;
+    padding: 0px 7px;
+}
